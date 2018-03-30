@@ -84,7 +84,11 @@ y = symbols('y')
 
 ### 法二：html之語法，可以改圖片大小<br>
 指定圖片的大小百分比：width="40%"<br>
-`<img src='https://github.com/Yang0718/markdown_notes/raw/master/微積分符號.png' width="20%" height="20%" class="center">`<br>
+```
+<p align="center">
+   <img src='https://github.com/Yang0718/markdown_notes/raw/master/微積分符號.png' width="20%" height="20%">
+</p>
+```
 <p align="center">
    <img src='https://github.com/Yang0718/markdown_notes/raw/master/微積分符號.png' width="20%" height="20%">
 </p>
